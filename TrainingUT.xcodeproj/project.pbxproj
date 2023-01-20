@@ -23,7 +23,16 @@
 		BB27F0A7297899D4004D0C0F /* StringUtilsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB27F0A6297899D4004D0C0F /* StringUtilsTests.swift */; };
 		BB6111262978A1F90074707C /* AccountBalance.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6111252978A1F90074707C /* AccountBalance.swift */; };
 		BB6111282978A2800074707C /* AccountBalanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6111272978A2800074707C /* AccountBalanceTests.swift */; };
-		BB61112C2978B1220074707C /* StringUtilsSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6111292978B1010074707C /* StringUtilsSpec.swift */; };
+		BB61112C2978B1220074707C /* StringUtilsSpecs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6111292978B1010074707C /* StringUtilsSpecs.swift */; };
+		BBA096382979D2740095187D /* BeforeEachAfterEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA096372979D2740095187D /* BeforeEachAfterEach.swift */; };
+		BBA0963C2979D8880095187D /* AccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA0963A2979D8880095187D /* AccountViewController.swift */; };
+		BBA0963D2979D8880095187D /* AccountViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BBA0963B2979D8880095187D /* AccountViewController.xib */; };
+		BBA0963F2979D8970095187D /* AccountViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA0963E2979D8970095187D /* AccountViewModel.swift */; };
+		BBA096412979DBF30095187D /* AccountViewModelSpecs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA096402979DBF30095187D /* AccountViewModelSpecs.swift */; };
+		BBA096432979E9F60095187D /* AccountViewControllerSpecs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA096422979E9F60095187D /* AccountViewControllerSpecs.swift */; };
+		BBA096452979F0180095187D /* AccountModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA096442979F0180095187D /* AccountModel.swift */; };
+		BBA096472979F2920095187D /* AsyncProcess.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA096462979F2920095187D /* AsyncProcess.swift */; };
+		BBA096492979F31F0095187D /* AsyncProcessSpecs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA096482979F31F0095187D /* AsyncProcessSpecs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,7 +76,16 @@
 		BB27F0A6297899D4004D0C0F /* StringUtilsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringUtilsTests.swift; sourceTree = "<group>"; };
 		BB6111252978A1F90074707C /* AccountBalance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountBalance.swift; sourceTree = "<group>"; };
 		BB6111272978A2800074707C /* AccountBalanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountBalanceTests.swift; sourceTree = "<group>"; };
-		BB6111292978B1010074707C /* StringUtilsSpec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringUtilsSpec.swift; sourceTree = "<group>"; };
+		BB6111292978B1010074707C /* StringUtilsSpecs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringUtilsSpecs.swift; sourceTree = "<group>"; };
+		BBA096372979D2740095187D /* BeforeEachAfterEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeforeEachAfterEach.swift; sourceTree = "<group>"; };
+		BBA0963A2979D8880095187D /* AccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewController.swift; sourceTree = "<group>"; };
+		BBA0963B2979D8880095187D /* AccountViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AccountViewController.xib; sourceTree = "<group>"; };
+		BBA0963E2979D8970095187D /* AccountViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewModel.swift; sourceTree = "<group>"; };
+		BBA096402979DBF30095187D /* AccountViewModelSpecs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewModelSpecs.swift; sourceTree = "<group>"; };
+		BBA096422979E9F60095187D /* AccountViewControllerSpecs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewControllerSpecs.swift; sourceTree = "<group>"; };
+		BBA096442979F0180095187D /* AccountModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountModel.swift; sourceTree = "<group>"; };
+		BBA096462979F2920095187D /* AsyncProcess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncProcess.swift; sourceTree = "<group>"; };
+		BBA096482979F31F0095187D /* AsyncProcessSpecs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncProcessSpecs.swift; sourceTree = "<group>"; };
 		C52A70E8209B92DFB6E2734E /* Pods-TrainingUTTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrainingUTTests.release.xcconfig"; path = "Target Support Files/Pods-TrainingUTTests/Pods-TrainingUTTests.release.xcconfig"; sourceTree = "<group>"; };
 		D04C13E1784B91D35EC390A2 /* Pods_TrainingUTTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TrainingUTTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F37D4C156E3079722A7AAAB8 /* Pods-TrainingUTTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrainingUTTests.debug.xcconfig"; path = "Target Support Files/Pods-TrainingUTTests/Pods-TrainingUTTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -149,6 +167,7 @@
 		BB27F073297890A9004D0C0F /* TrainingUT */ = {
 			isa = PBXGroup;
 			children = (
+				BBA096392979D85E0095187D /* AccountView */,
 				BB27F074297890A9004D0C0F /* AppDelegate.swift */,
 				BB27F076297890A9004D0C0F /* SceneDelegate.swift */,
 				BB27F078297890A9004D0C0F /* ViewController.swift */,
@@ -158,6 +177,7 @@
 				BB27F082297890A9004D0C0F /* Info.plist */,
 				BB27F0A42978971A004D0C0F /* StringUtils.swift */,
 				BB6111252978A1F90074707C /* AccountBalance.swift */,
+				BBA096462979F2920095187D /* AsyncProcess.swift */,
 			);
 			path = TrainingUT;
 			sourceTree = "<group>";
@@ -168,7 +188,11 @@
 				BB27F08B297890A9004D0C0F /* TrainingUTTests.swift */,
 				BB27F0A6297899D4004D0C0F /* StringUtilsTests.swift */,
 				BB6111272978A2800074707C /* AccountBalanceTests.swift */,
-				BB6111292978B1010074707C /* StringUtilsSpec.swift */,
+				BB6111292978B1010074707C /* StringUtilsSpecs.swift */,
+				BBA096372979D2740095187D /* BeforeEachAfterEach.swift */,
+				BBA096402979DBF30095187D /* AccountViewModelSpecs.swift */,
+				BBA096422979E9F60095187D /* AccountViewControllerSpecs.swift */,
+				BBA096482979F31F0095187D /* AsyncProcessSpecs.swift */,
 			);
 			path = TrainingUTTests;
 			sourceTree = "<group>";
@@ -180,6 +204,17 @@
 				BB27F097297890A9004D0C0F /* TrainingUTUITestsLaunchTests.swift */,
 			);
 			path = TrainingUTUITests;
+			sourceTree = "<group>";
+		};
+		BBA096392979D85E0095187D /* AccountView */ = {
+			isa = PBXGroup;
+			children = (
+				BBA0963A2979D8880095187D /* AccountViewController.swift */,
+				BBA0963B2979D8880095187D /* AccountViewController.xib */,
+				BBA0963E2979D8970095187D /* AccountViewModel.swift */,
+				BBA096442979F0180095187D /* AccountModel.swift */,
+			);
+			path = AccountView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -292,6 +327,7 @@
 			files = (
 				BB27F081297890A9004D0C0F /* LaunchScreen.storyboard in Resources */,
 				BB27F07E297890A9004D0C0F /* Assets.xcassets in Resources */,
+				BBA0963D2979D8880095187D /* AccountViewController.xib in Resources */,
 				BB27F07C297890A9004D0C0F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -404,7 +440,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB27F0A52978971A004D0C0F /* StringUtils.swift in Sources */,
+				BBA096472979F2920095187D /* AsyncProcess.swift in Sources */,
+				BBA0963F2979D8970095187D /* AccountViewModel.swift in Sources */,
 				BB27F079297890A9004D0C0F /* ViewController.swift in Sources */,
+				BBA096452979F0180095187D /* AccountModel.swift in Sources */,
+				BBA0963C2979D8880095187D /* AccountViewController.swift in Sources */,
 				BB27F075297890A9004D0C0F /* AppDelegate.swift in Sources */,
 				BB27F077297890A9004D0C0F /* SceneDelegate.swift in Sources */,
 				BB6111262978A1F90074707C /* AccountBalance.swift in Sources */,
@@ -416,9 +456,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB27F0A7297899D4004D0C0F /* StringUtilsTests.swift in Sources */,
+				BBA096412979DBF30095187D /* AccountViewModelSpecs.swift in Sources */,
 				BB27F08C297890A9004D0C0F /* TrainingUTTests.swift in Sources */,
+				BBA096432979E9F60095187D /* AccountViewControllerSpecs.swift in Sources */,
+				BBA096382979D2740095187D /* BeforeEachAfterEach.swift in Sources */,
+				BBA096492979F31F0095187D /* AsyncProcessSpecs.swift in Sources */,
 				BB6111282978A2800074707C /* AccountBalanceTests.swift in Sources */,
-				BB61112C2978B1220074707C /* StringUtilsSpec.swift in Sources */,
+				BB61112C2978B1220074707C /* StringUtilsSpecs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCE46BC4-B6DA-4322-81E4-41F1D6861901"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "347CA0D2-3B1B-4802-91AF-DE55060472C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrainingUTTests/AsyncProcessSpecs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AsyncProcessSpecs"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "347CA0D2-3B1B-4802-91AF-DE55060472C4 - 5f23506ea337bacd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingUTTests.AsyncProcessSpecs.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; TrainingUTTests.AsyncProcessSpecs"
+                  moduleName = "TrainingUTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrohenriquediashemmeldeoliveirasouza/Documents/Github/TrainingUT/TrainingUTTests/AsyncProcessSpecs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "347CA0D2-3B1B-4802-91AF-DE55060472C4 - 9ee6ef77f8e4e5ba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingUTTests.AsyncProcessSpecs.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; TrainingUTTests.AsyncProcessSpecs"
+                  moduleName = "TrainingUTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrohenriquediashemmeldeoliveirasouza/Documents/Github/TrainingUT/TrainingUTTests/AsyncProcessSpecs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "347CA0D2-3B1B-4802-91AF-DE55060472C4 - 8cd1669b1483c4ce"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingUTTests.AsyncProcessSpecs.__allocating_init(selector: ObjectiveC.Selector) -&gt; TrainingUTTests.AsyncProcessSpecs"
+                  moduleName = "TrainingUTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrohenriquediashemmeldeoliveirasouza/Documents/Github/TrainingUT/TrainingUTTests/AsyncProcessSpecs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "347CA0D2-3B1B-4802-91AF-DE55060472C4 - 894a161da283339a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingUTTests.AsyncProcessSpecs.init(selector: ObjectiveC.Selector) -&gt; TrainingUTTests.AsyncProcessSpecs"
+                  moduleName = "TrainingUTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrohenriquediashemmeldeoliveirasouza/Documents/Github/TrainingUT/TrainingUTTests/AsyncProcessSpecs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "347CA0D2-3B1B-4802-91AF-DE55060472C4 - 3bf9282b309cff11"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingUTTests.AsyncProcessSpecs.__allocating_init() -&gt; TrainingUTTests.AsyncProcessSpecs"
+                  moduleName = "TrainingUTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrohenriquediashemmeldeoliveirasouza/Documents/Github/TrainingUT/TrainingUTTests/AsyncProcessSpecs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "347CA0D2-3B1B-4802-91AF-DE55060472C4 - 67d9b246956525c5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingUTTests.AsyncProcessSpecs.init() -&gt; TrainingUTTests.AsyncProcessSpecs"
+                  moduleName = "TrainingUTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrohenriquediashemmeldeoliveirasouza/Documents/Github/TrainingUT/TrainingUTTests/AsyncProcessSpecs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "347CA0D2-3B1B-4802-91AF-DE55060472C4 - b8ca6cd29c54cb83"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainingUTTests.AsyncProcessSpecs.__deallocating_deinit"
+                  moduleName = "TrainingUTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrohenriquediashemmeldeoliveirasouza/Documents/Github/TrainingUT/TrainingUTTests/AsyncProcessSpecs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -10,7 +10,7 @@ import Nimble
 @testable import TrainingUT
 
 
-class StringUtilsSpec: QuickSpec {
+class StringUtilsSpecs: QuickSpec {
     //Function that test all of the code in it
     override func spec() {
         describe("StringUtils") {
